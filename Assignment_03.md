@@ -1,5 +1,5 @@
 Cristian Camilo Ochica Maldonado
-Rol que voy a ocupar
+Rol que voy a ocupar 
 Vamos a usar la metodología SCRUM, por tanto me gustaría ocupar el rol Scrum Master, esto me permite establecer una buena relación en el equipo de trabajo, para que se trabaje armónicamente y se realicen las reuniones y se cumpla con los tiempos de trabajo para que el proyecto se desarrolle correctamente.
 Fortalezas personales
 Pienso que tengo buena comunicación y puedo expresar mis ideas con claridad, además siento que tengo buena organización del tiempo.
