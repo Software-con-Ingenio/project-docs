@@ -1,3 +1,6 @@
+Sebastián Contreras:
+Dentro del equipo me gustaría desempeñar un rol de desarrollador, donde pueda llevar a la realidad las ideas planteadas, mis habilidades en desarrollo se basan en buenas bases de lógica de programación especialmente en back, sin embargo, he trabajado en algunas ocasiones con html y php para la capa de frontend. Debo fortalecer el trabajo en equipo colaborativo, mejorar mi comunicacion con los demas integrantes del equipo y trabajar en la capacidad argumentativa para llegar a acuerdos sobre que se va a trabajar.
+
 
 JUAN DAVID MARTINEZ HERRERA
 
