@@ -22,7 +22,7 @@ Hoy cuento con una base sólida en algoritmos y estructuras de datos. Esto me pe
 ### Aspectos a fortalecer o mejorar
 Mi mayor reto en este momento es la colaboración técnica. Al no haber trabajado antes en proyectos de ingeniería de software, necesito aprender a usar herramientas como Git y GitHub para que mi código conviva con el de los demás sin causar desastres. También quiero mejorar mi comunicación dentro del marco de Scrum, aprendiendo a pedir ayuda a tiempo y a coordinar mis tareas con el resto del equipo para no trabajar de forma aislada.
 
-### Sebastián Contreras
+## Sebastián Contreras
 
 ### Rol que me gustaría desempeñar
 Dentro del equipo me gustaría desempeñar un rol de desarrollador, donde pueda llevar a la realidad las ideas planteadas
@@ -43,3 +43,20 @@ Las tecnicas que manejo son mtologias agiles (scrum), desarrollo de software en 
 
 ### Cosas para mejorar
 Los aspectos que considero debo mejorar son manejo del tiempo y pedir ayuda
+
+# Apartado 2
+
+### Cómo usar el tablero
+El SCRUM Board que se va a utilizar es ClickUp, en este el SCRUM Master va a asignar las tareas individuales de cada integrante del equipo de desarrollo.
+
+### Frecuencia mínima de las reuniones
+Inicialmente tenemos planeados reunirnos una vez cada dos días, martes, jueves y sábados, y según el avance del proyecto adaptar las sesiones de reunión.
+
+### Reglas básicas sobre Git/Github
+Crear ramas para no trabajar sobre el main directamente, avisar antes de subir cada cambio, 
+
+### Compromisos sobre avisar cuando alguien no puede cumplir una tarea
+Se debe avisar en una de las reuniones de planeación, para así delegar nuevamente la tarea y cumplir con el objetivo.
+
+### Acuerdos sobre decisiones
+Las decisiones solo pueden ser tomadas en los días de reunión establecidos, para que no se tengan arbitrariedades.
