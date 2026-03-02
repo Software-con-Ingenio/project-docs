@@ -1,4 +1,4 @@
-![image alt] (https://github.com/ShaggyE5319/Imagenes/blob/ef071f445ca388be898a282119d2010c727804ed/WhatsApp%20Image%202026-02-18%20at%2019.30.39%20(1).jpeg)
+![image alt](https://github.com/ShaggyE5319/Imagenes/blob/ef071f445ca388be898a282119d2010c727804ed/WhatsApp%20Image%202026-02-18%20at%2019.30.39%20(1).jpeg)
 # project-docs RetroTack
 ## Software con Ingenio
 ### Integrantes 
